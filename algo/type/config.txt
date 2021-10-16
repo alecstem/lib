@@ -1,0 +1,6 @@
+# word test settings
+words_per_test=20
+
+# general test settings
+words_per_line=10
+sudden_death=0

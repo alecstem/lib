@@ -1,0 +1,40 @@
+Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.
+Premature optimization is the root of all evil (or at least most of it) in programming.
+Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.
+Good ideas are out there for anyone with the wit and the will to find them.
+A person won't become proficient at something until he or she has done it many times. In other words, if you want someone to be really good at building a software system, he or she will have to have built 10 or more systems of that type.
+A person won't retain proficiency at a task unless he or she has at one time learned to perform that task very rapidly. Learning research demonstrates that the skills of people who become accurate but not fast deteriorate much sooner than the skills of people who become both accurate and fast.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+Wear your best for your execution and stand dignified. Your last recourse against randomness is how you act - if you can't control outcomes, you can control the elegance of your behaviour. You will always have the last word.
+Simple, clear purpose and principles give rise to complex, intelligent behavior. Complex rules and regulations give rise to simple, stupid behavior.
+Java and C++ make you think that the new ideas are like the old ones. Java is the most distressing thing to hit computing since MS-DOS.
+For complex systems, the compiler and development environment need to be in the same language that its supporting. It's the only way to grow code.
+If it looks like a duck, walks like a duck, and quacks like a duck, it's a duck.
+In OO, it's the data that is the "important" thing: you define the class which contains member data, and only incidentally contains code for manipulating the object. In FP, it's the code that's important: you define a function which contains code for working with the data, and only incidentally define what the data is.
+Innovation comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much. We're always thinking about new markets we could enter, but it's only by saying no that you can concentrate on the things that are really important.
+Side projects are less masturbatory than reading RSS, often more useful than MobileMe, more educational than the comments on Reddit, and usually more fun than listening to keynotes.
+Natives who beat drums to drive off evil spirits are objects of scorn to smart Americans who blow horns to break up traffic jams.
+Never do the impossible. People will expect you to do it forever after.
+Hire people smarter than you.  Work with people smarter than you. Listen to them. Let them lead you. Take the blame for all failures, give away the credit for all successes.
+Only two things are infinite, the universe and human stupidity. And I'm not so sure about the former.
+Do not accept anything because it comes from the mouth of a respected person.
+Sound methodology can empower and liberate the creative mind; it cannot inflame or inspire the drudge.
+Do not spoil what you have by desiring what you have not; but remember that what you now have was once among the things only hoped for.
+You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
+Actually, the essence of boredom is to be found in the obsessive search for novelty. Satisfaction lies in mindful repetition, the discovery of endless richness in subtle variations on familiar themes.
+Before enlightenment, chop wood and carry water. After enlightenment, chop wood and carry water.
+Acknowledging the negative doesn't mean sniveling; it means facing the truth and then moving on.
+Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it.
+Winning does not tempt that man. This is how he grows: by being defeated, decisively, by constantly greater beings. 
+We fail to realize that mastery is not about perfection. It's about a process, a journey. The master is the one who stays on the path day after day, year after year. The master is the one who is willing to try, and fail, and try again, for as long as he or she lives.
+Are you willing to wear your white belt?
+The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+To follow the path: look to the master, follow the master, walk with the master, see through the master, become the master.
+It is said that the real winner is the one who lives in today but able to see tomorrow.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.
+We really have to get over the idea that some stuff is just worth knowing even if you never do anything with it. Human memories happily erase stuff that has no purpose, so why try to fill up children's heads with such stuff?
