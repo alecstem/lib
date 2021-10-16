@@ -1,2 +1,12 @@
-# mathlib
-Some programs that I've coded and use regularly to make math/physics homework easier.
+# Collection of small math codes
+
+## Description
+This repository just stores some basic programs that I've coded and use to make math homework easier.
+
+### Directory
+
+| File          | Description   |
+| ------------- |:-------------:|
+| vectors.cpp   | computes cross/dot product when given two vectors     |
+
+_More coming soon!_
