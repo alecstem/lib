@@ -7,6 +7,8 @@ This repository just stores some basic programs that I've coded and use to make 
 
 | File          | Description   |
 | ------------- |:-------------:|
-| vectors.cpp   | computes cross/dot product when given two vectors     |
+| vectors.cpp           | computes cross/dot product when given two vectors     |
+| astar.cpp             | astar path-finding algorithm implementation           |
+| langtons_ant2.cpp     | [langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant) implementation           |
 
 _More coming soon!_
