@@ -1,7 +1,7 @@
 # Collection of small math codes
 
 ## Description
-This repository just stores some basic programs that I've coded and use to make math homework easier.
+This repository just stores some basic programs that I've coded and use to make life (mostly homework) easier.
 
 ### Directory
 
