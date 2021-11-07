@@ -1,7 +1,7 @@
 # Collection of miscellaneous projects 
 
 ## Description
-This repository just stores miscellaneous programs I've made in the past and sometimes use.
+This repository just stores all of my miscellaneous projects that are too small for their own repo.
 
 ### Directory
 
