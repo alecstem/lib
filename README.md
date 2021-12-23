@@ -13,5 +13,6 @@ This repository just stores all of my miscellaneous projects that are too small 
 | [type.cpp](https://github.com/alecstem/lib/tree/main/algo/type) | an unfinished console-based typing test that measures wpm/cpm [(video)](https://www.youtube.com/watch?v=oW_xD7zLnd4)
 | [voroni2.cpp](https://github.com/alecstem/lib/tree/main/algo/voroni2.cpp) | animated console demonstration of [voroni](https://en.wikipedia.org/wiki/Voronoi_diagram) diagram |
 | [monty.cpp](https://github.com/alecstem/misc/blob/main/math/monty.cpp) | monte carlo approximation of the monty hill problem [(video)](https://www.youtube.com/watch?v=yzxzJx5UqS0)
+| [2048.cpp](https://github.com/alecstem/misc/blob/main/algo/2048.cpp) | 2048 game implementation [(video)](https://www.youtube.com/watch?v=gN5qSHX9RLQ) |
 
 _More coming soon!_
