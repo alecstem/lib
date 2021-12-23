@@ -25,6 +25,8 @@ void startGame(vector<vector<int>> &gameBoard)
 }
 void spawnCell(vector<vector<int>> &gameBoard)
 {
+	// Forcibly spawns new number in empty space, this is a bad
+	// way of handling this but too lazy to make it better atm.
 	int r = rand()%ROWS;
 	int c = rand()%COLS;
 	while (gameBoard[r][c])
@@ -38,6 +40,7 @@ void spawnCell(vector<vector<int>> &gameBoard)
 }
 void displayBoard(vector<vector<int>> gameBoard)
 {
+	// Simple display board function.
 	for (int i = 0; i < ROWS; ++i)
 	{
 		for (int j = 0; j < COLS; ++j)
@@ -53,7 +56,7 @@ bool moveBoard(vector<vector<int>> &gameBoard, char choice)
 	unordered_map<char, int> m;
 	bool ok = false;
 	m['w']=0, m['a']=1, m['s']=2, m['d']=3;
-	// Move everything to end.
+	// Move everything to end, matrix traversal depends on direction.
 	if (choice=='d'||choice=='s')
 	{
 		for (int i = ROWS-1; i >= 0; --i)
@@ -98,7 +101,8 @@ bool moveBoard(vector<vector<int>> &gameBoard, char choice)
 						r+=x, c+=y;	
 					}
 					if ((bestR!=-1)||(bestC!=-1))
-						tempBoard[i][j] = 0, tempBoard[bestR][bestC]=el, ok = true;						    	    }
+						tempBoard[i][j] = 0, tempBoard[bestR][bestC]=el, ok = true;						    	  
+				}
 			}
 		}
 	}
@@ -169,8 +173,7 @@ bool mergeDown(vector<vector<int>> &gameBoard)
 
 void mergeControl(vector<vector<int>> &gameBoard, char choice)
 {
-	vector<vector<int>> tempBoard = gameBoard;
-	unordered_map<char, int> m;
+	// Handles merging of cells based on direction, could definitely make this neater...
 	switch (choice)
 	{
 		case 'w':
@@ -195,7 +198,6 @@ int main()
 	srand(time(NULL));
 	system("cls");
 	startGame(gameBoard);
-	//gameBoard[0][0]=2, gameBoard[1][0]=16, gameBoard[2][0]=2, gameBoard[3][0]=16;
 	displayBoard(gameBoard);
 	char choice;
 	bool ok = false;
